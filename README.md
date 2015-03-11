@@ -4,4 +4,4 @@ Example project to accessing docbook rest api using restlet framework (JAVA Lang
 Step to configure:
 * Clone the project.
 * Update the config file with your credentials.
-* Add restlet jar to library classpath.
+* Add restlet jars (org.restlet.ext.servlet.jar and org.restlet.jar) to library classpath.
